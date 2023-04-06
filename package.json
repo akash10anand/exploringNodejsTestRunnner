@@ -1,0 +1,22 @@
+{
+  "name": "exploringnodejstestrunnner",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node --test tests/test1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akash10anand/exploringNodejsTestRunnner.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akash10anand/exploringNodejsTestRunnner/issues"
+  },
+  "homepage": "https://github.com/akash10anand/exploringNodejsTestRunnner#readme"
+}
